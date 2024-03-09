@@ -1,0 +1,103 @@
+2024-03-09 21:30:40,902@ libjpx.XMLDataGetter [DEBUG] get: get xml from local:C:\Users\QUWE\Desktop\081220240214536030\XBRLData\Summary\tse-qnedjpsm-23910-20240214536030-def.xml
+2024-03-09 21:30:41,049@ libjpx.XBRLStructure [DEBUG] __init__: load definitionLink role = http://www.xbrl.tdnet.info/jp/tse/tdnet/role/RoleDocumentEntityInformation
+2024-03-09 21:30:41,053@ libjpx.XBRLStructure [DEBUG] __init__: load definitionLink role = http://www.xbrl.tdnet.info/jp/tse/tdnet/role/RoleBusinessResultsQuarterlyOperatingResults
+2024-03-09 21:30:41,055@ libjpx.XBRLStructure [DEBUG] __init__: load definitionLink role = http://www.xbrl.tdnet.info/jp/tse/tdnet/role/RoleQuarterlyForecasts
+2024-03-09 21:30:41,058@ libjpx.XBRLStructure [DEBUG] __init__: load definitionLink role = http://www.xbrl.tdnet.info/jp/tse/tdnet/role/RoleBusinessResultsQuarterlyFinancialPositions
+2024-03-09 21:30:41,060@ libjpx.XBRLStructure [DEBUG] __init__: load definitionLink role = http://www.xbrl.tdnet.info/jp/tse/tdnet/role/RoleNotesQuarterlyApplyingSpecificAccountingConsolidatedQuarterlyFinancialStatements
+2024-03-09 21:30:41,062@ libjpx.XBRLStructure [DEBUG] __init__: load definitionLink role = http://www.xbrl.tdnet.info/jp/tse/tdnet/role/RoleNotesQuarterlyChangesAccountingPoliciesAccountingEstimatesRetrospectiveRestatement
+2024-03-09 21:30:41,064@ libjpx.XBRLStructure [DEBUG] __init__: load definitionLink role = http://www.xbrl.tdnet.info/jp/tse/tdnet/role/RoleQuarterlyDividends
+2024-03-09 21:30:41,069@ libjpx.XBRLStructure [DEBUG] __init__: load definitionLink role = http://www.xbrl.tdnet.info/jp/tse/tdnet/role/RoleNotesQuarterlyNumberIssuedOutstandingSharesCommonStock
+2024-03-09 21:30:41,072@ libjpx.XBRLStructure [DEBUG] __init__: load definitionLink role = http://www.xbrl.tdnet.info/jp/tse/tdnet/role/RoleSpecialNotesQuarterlyEarningDigestSummary
+2024-03-09 21:30:41,074@ libjpx.XBRLStructure [DEBUG] __init__: load definitionLink role = http://www.xbrl.tdnet.info/jp/tse/tdnet/role/RoleBusinessResultsNoteQuarterlyBusinessResults
+2024-03-09 21:30:41,080@ libjpx.XBRLStructure [DEBUG] __read_context: read context
+2024-03-09 21:30:41,080@ libjpx.XMLDataGetter [DEBUG] get: get xml from local:C:\Users\QUWE\Desktop\081220240214536030\XBRLData\Summary\tse-qnedjpsm-23910-20240214536030-ixbrl.htm
+2024-03-09 21:30:41,127@ libjpx.XBRLStructure [DEBUG] __read_context: context name :PriorAccumulatedQ2Duration_NonConsolidatedMember_ResultMember
+2024-03-09 21:30:41,129@ libjpx.XBRLStructure [DEBUG] __read_context: context name :PriorYearDuration_FirstQuarterMember_NonConsolidatedMember_ResultMember
+2024-03-09 21:30:41,132@ libjpx.XBRLStructure [DEBUG] __read_context: context name :PriorYearDuration_SecondQuarterMember_NonConsolidatedMember_ResultMember
+2024-03-09 21:30:41,140@ libjpx.XBRLStructure [DEBUG] __read_context: context name :PriorYearDuration_ThirdQuarterMember_NonConsolidatedMember_ResultMember
+2024-03-09 21:30:41,142@ libjpx.XBRLStructure [DEBUG] __read_context: context name :PriorYearDuration_YearEndMember_NonConsolidatedMember_ResultMember
+2024-03-09 21:30:41,142@ libjpx.XBRLStructure [DEBUG] __read_context: context name :PriorYearDuration_AnnualMember_NonConsolidatedMember_ResultMember
+2024-03-09 21:30:41,144@ libjpx.XBRLStructure [DEBUG] __read_context: context name :PriorYearInstant_NonConsolidatedMember_ResultMember
+2024-03-09 21:30:41,144@ libjpx.XBRLStructure [DEBUG] __read_context: context name :CurrentAccumulatedQ2Duration_NonConsolidatedMember_ResultMember
+2024-03-09 21:30:41,149@ libjpx.XBRLStructure [DEBUG] __read_context: context name :CurrentAccumulatedQ2Duration_AnnualMember_NonConsolidatedMember_ResultMember
+2024-03-09 21:30:41,156@ libjpx.XBRLStructure [DEBUG] __read_context: context name :CurrentAccumulatedQ2Instant
+2024-03-09 21:30:41,159@ libjpx.XBRLStructure [DEBUG] __read_context: context name :CurrentAccumulatedQ2Instant_NonConsolidatedMember_ResultMember
+2024-03-09 21:30:41,159@ libjpx.XBRLStructure [DEBUG] __read_context: context name :CurrentYearDuration
+2024-03-09 21:30:41,160@ libjpx.XBRLStructure [DEBUG] __read_context: context name :CurrentYearDuration_AnnualMember_NonConsolidatedMember_ResultMember
+2024-03-09 21:30:41,162@ libjpx.XBRLStructure [DEBUG] __read_context: context name :CurrentYearDuration_NonConsolidatedMember_ForecastMember
+2024-03-09 21:30:41,164@ libjpx.XBRLStructure [DEBUG] __read_context: context name :CurrentYearDuration_NonConsolidatedMember_LowerMember
+2024-03-09 21:30:41,174@ libjpx.XBRLStructure [DEBUG] __read_context: context name :CurrentYearDuration_NonConsolidatedMember_UpperMember
+2024-03-09 21:30:41,176@ libjpx.XBRLStructure [DEBUG] __read_context: context name :CurrentYearDuration_FirstQuarterMember_NonConsolidatedMember_ResultMember
+2024-03-09 21:30:41,177@ libjpx.XBRLStructure [DEBUG] __read_context: context name :CurrentYearDuration_SecondQuarterMember_NonConsolidatedMember_ResultMember
+2024-03-09 21:30:41,180@ libjpx.XBRLStructure [DEBUG] __read_context: context name :CurrentYearDuration_ThirdQuarterMember_NonConsolidatedMember_ForecastMember
+2024-03-09 21:30:41,187@ libjpx.XBRLStructure [DEBUG] __read_context: context name :CurrentYearDuration_ThirdQuarterMember_NonConsolidatedMember_LowerMember
+2024-03-09 21:30:41,190@ libjpx.XBRLStructure [DEBUG] __read_context: context name :CurrentYearDuration_ThirdQuarterMember_NonConsolidatedMember_UpperMember
+2024-03-09 21:30:41,191@ libjpx.XBRLStructure [DEBUG] __read_context: context name :CurrentYearDuration_YearEndMember_NonConsolidatedMember_ForecastMember
+2024-03-09 21:30:41,193@ libjpx.XBRLStructure [DEBUG] __read_context: context name :CurrentYearDuration_YearEndMember_NonConsolidatedMember_LowerMember
+2024-03-09 21:30:41,196@ libjpx.XBRLStructure [DEBUG] __read_context: context name :CurrentYearDuration_YearEndMember_NonConsolidatedMember_UpperMember
+2024-03-09 21:30:41,203@ libjpx.XBRLStructure [DEBUG] __read_context: context name :CurrentYearDuration_AnnualMember_NonConsolidatedMember_ForecastMember
+2024-03-09 21:30:41,206@ libjpx.XBRLStructure [DEBUG] __read_context: context name :CurrentYearDuration_AnnualMember_NonConsolidatedMember_LowerMember
+2024-03-09 21:30:41,206@ libjpx.XBRLStructure [DEBUG] __read_context: context name :CurrentYearDuration_AnnualMember_NonConsolidatedMember_UpperMember
+2024-03-09 21:30:41,207@ libjpx.XBRLStructure [DEBUG] __read_context: context name :CurrentYearInstant
+2024-03-09 21:30:41,211@ libjpx.XBRLStructure [DEBUG] __read_value_data: read value
+2024-03-09 21:30:41,218@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:C:\Users\QUWE\Desktop\081220240214536030\XBRLData\Summary\tse-qnedjpsm-23910-20240214536030-ixbrl.htm
+2024-03-09 21:30:41,243@ libjpx.XMLDataGetter [DEBUG] get: get xml from webcache:.\webcache\xml_text_http___www_xbrl_tdnet_info_taxonomy_jp_tse_tdnet_ed_t_2014-01-12_tse-ed-t-2014-01-12_xsd_7c7146124b062096340a2198c751daea7e24d5b950218f8e1a33601259f90fbd
+2024-03-09 21:30:41,320@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,331@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,341@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,352@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,361@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,373@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,384@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,393@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,404@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,411@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,419@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,427@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,434@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,439@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,441@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,446@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,453@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,459@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,462@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,468@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,475@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,478@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,484@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,490@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,494@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,500@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,506@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,511@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,516@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,527@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:http://www.xbrl.tdnet.info/taxonomy/jp/tse/tdnet/ed/t/2014-01-12/tse-ed-t-2014-01-12.xsd
+2024-03-09 21:30:41,537@ libjpx.XMLDataGetter [DEBUG] get: get xml from local:C:\Users\QUWE\Desktop\081220240214536030\XBRLData\Summary\tse-qnedjpsm-23910-20240214536030.xsd
+2024-03-09 21:30:41,543@ libjpx.XBRLStructure [DEBUG] get_JPNameStructureDict: load labfile from cache : .\labfile\labfile_structure_http___www_xbrl_tdnet_info_taxonomy_jp_tse_tdnet_ed_t_2014-01-12_tse-ed-t-2014-01-12-lab_xml_0d56d2005930318f7c9282063de36dcf474e6ab203c411744d086f1495f31066
+2024-03-09 21:30:41,559@ libjpx.XMLDataGetter [DEBUG] get: get xml from cache:C:\Users\QUWE\Desktop\081220240214536030\XBRLData\Summary\tse-qnedjpsm-23910-20240214536030.xsd
+2024-03-09 21:30:41,592@ libjpx.XBRLStructure [DEBUG] read_instance_data: 要素:業績予想タイトル名称,tse-ed-t_TitleForForecasts
+2024-03-09 21:30:41,593@ libjpx.XBRLStructure [DEBUG] read_instance_data: [CurrentYearDuration_NonConsolidatedMember_ForecastMember][3. 2024年 7月期の業績予想（2023年 8月 1日～2024年 7月31日）]
+2024-03-09 21:30:41,595@ libjpx.XBRLStructure [DEBUG] read_instance_data: 要素:業績予想に関する事項,tse-ed-t_PreambleToForecasts
+2024-03-09 21:30:41,596@ libjpx.XBRLStructure [DEBUG] read_instance_data: [CurrentYearDuration_NonConsolidatedMember_ForecastMember][]
+2024-03-09 21:30:41,609@ libjpx.XBRLStructure [DEBUG] read_instance_data: 要素:売上高,tse-ed-t_NetSales
+2024-03-09 21:30:41,610@ libjpx.XBRLStructure [DEBUG] read_instance_data: [CurrentYearDuration_NonConsolidatedMember_ForecastMember][3225000000]
+2024-03-09 21:30:41,610@ libjpx.XBRLStructure [DEBUG] read_instance_data: 要素:増減率,tse-ed-t_ChangeInNetSales
+2024-03-09 21:30:41,611@ libjpx.XBRLStructure [DEBUG] read_instance_data: [CurrentYearDuration_NonConsolidatedMember_ForecastMember][0.030]
+2024-03-09 21:30:41,612@ libjpx.XBRLStructure [DEBUG] read_instance_data: 要素:営業利益,tse-ed-t_OperatingIncome
+2024-03-09 21:30:41,612@ libjpx.XBRLStructure [DEBUG] read_instance_data: [CurrentYearDuration_NonConsolidatedMember_ForecastMember][560000000]
+2024-03-09 21:30:41,613@ libjpx.XBRLStructure [DEBUG] read_instance_data: 要素:増減率,tse-ed-t_ChangeInOperatingIncome
+2024-03-09 21:30:41,613@ libjpx.XBRLStructure [DEBUG] read_instance_data: [CurrentYearDuration_NonConsolidatedMember_ForecastMember][-0.105]
+2024-03-09 21:30:41,614@ libjpx.XBRLStructure [DEBUG] read_instance_data: 要素:経常利益,tse-ed-t_OrdinaryIncome
+2024-03-09 21:30:41,615@ libjpx.XBRLStructure [DEBUG] read_instance_data: [CurrentYearDuration_NonConsolidatedMember_ForecastMember][580000000]
+2024-03-09 21:30:41,615@ libjpx.XBRLStructure [DEBUG] read_instance_data: 要素:増減率,tse-ed-t_ChangeInOrdinaryIncome
+2024-03-09 21:30:41,616@ libjpx.XBRLStructure [DEBUG] read_instance_data: [CurrentYearDuration_NonConsolidatedMember_ForecastMember][-0.115]
+2024-03-09 21:30:41,617@ libjpx.XBRLStructure [DEBUG] read_instance_data: 要素:当期純利益,tse-ed-t_NetIncome
+2024-03-09 21:30:41,627@ libjpx.XBRLStructure [DEBUG] read_instance_data: [CurrentYearDuration_NonConsolidatedMember_ForecastMember][400000000]
+2024-03-09 21:30:41,630@ libjpx.XBRLStructure [DEBUG] read_instance_data: 要素:増減率,tse-ed-t_ChangeInNetIncome
+2024-03-09 21:30:41,631@ libjpx.XBRLStructure [DEBUG] read_instance_data: [CurrentYearDuration_NonConsolidatedMember_ForecastMember][-0.096]
+2024-03-09 21:30:41,631@ libjpx.XBRLStructure [DEBUG] read_instance_data: 要素:1株当たり当期純利益,tse-ed-t_NetIncomePerShare
+2024-03-09 21:30:41,632@ libjpx.XBRLStructure [DEBUG] read_instance_data: [CurrentYearDuration_NonConsolidatedMember_ForecastMember][60.32]
+2024-03-09 21:30:41,633@ libjpx.XBRLStructure [DEBUG] read_instance_data: 要素:業績予想に関する事項,tse-ed-t_NoteToForecasts
+2024-03-09 21:30:41,644@ libjpx.XBRLStructure [DEBUG] read_instance_data: [CurrentYearDuration_NonConsolidatedMember_ForecastMember][]
+2024-03-09 21:30:41,646@ libjpx.XBRLStructure [DEBUG] read_instance_data: 要素:直近に公表されている業績予想からの修正の有無,tse-ed-t_CorrectionOfFinancialForecastInThisQuarter
+2024-03-09 21:30:41,647@ libjpx.XBRLStructure [DEBUG] read_instance_data: [CurrentYearDuration_NonConsolidatedMember_ForecastMember][False]
